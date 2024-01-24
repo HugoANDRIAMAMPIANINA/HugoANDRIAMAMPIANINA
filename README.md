@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome you !
 
-<!--
-**HugoANDRIAMAMPIANINA/HugoANDRIAMAMPIANINA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Hugo ANDRIAMAMPIANINA
 
-Here are some ideas to get you started:
+I'm a student in IT and computer science who loves programming and discovering new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+const hugoa = {
+    os: ["Linux", "Windows"]
+    languages: ["Typescript", "Python", "C#"],
+    interests: ["web dev", "full-stack", "back-end", "front-end", "tech", "security", "game dev"],
+    technologies: {
+        backEnd: {
+            ts: ["node", "nest.js"],
+        },
+        frontEnd: {
+            trinity: ["html","css","js"],
+            ts: ["react", "next.js"],
+        },
+        network: ["http", "websocket", "homemade"]
+        devOps: ["Docker", "Nginx"],
+        databases: ["MySQL", "SQLite"],
+        misc: ["responsivity"]
+    },
+    currentFocus: "Increasing skill to become a better developper",
+    favoriteQuote: "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things - Isaac Newton"
+};```
