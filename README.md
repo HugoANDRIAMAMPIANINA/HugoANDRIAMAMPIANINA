@@ -4,6 +4,8 @@
 
 I'm a student in IT and computer science who loves programming and discovering new things.
 
+![gif de zinzin](https://media.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif)
+
 ```typescript
 const hugoa = {
     os: ["Linux", "Windows"],
