@@ -1,6 +1,12 @@
 # Welcome you !
 
-### My name is `Hugo ANDRIAMAMPIANINA`
+```typescript
+const firstName: string = "Hugo";
+const lastName: string = "ANDRIAMAMPIANINA";
+console.log(`My name is ${firstName} ${lastName}`);
+```
+
+### My name is Hugo ANDRIAMAMPIANINA 
 
 I'm a student in `IT` and `computer science` who loves programming and discovering new things.
 
@@ -9,7 +15,7 @@ I'm a student in `IT` and `computer science` who loves programming and discoveri
 ```typescript
 const hugoa = {
     os: ["Linux", "Windows"],
-    languages: ["Typescript", "Python", "C#"],
+    languages: ["Typescript", "Python", "Golang", "C#"],
     interests: ["web dev", "full-stack", "back-end", "front-end", "tech", "security", "game dev"],
     technologies: {
         backEnd: {
@@ -17,6 +23,7 @@ const hugoa = {
         },
         frontEnd: {
             trinity: ["html","css","js"],
+            css: "tailwind",
             ts: ["react", "next.js"],
         },
         network: ["http", "websocket", "homemade"],
