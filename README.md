@@ -1,10 +1,10 @@
 # Welcome you !
 
-### My name is Hugo ANDRIAMAMPIANINA
+### My name is `Hugo ANDRIAMAMPIANINA`
 
-I'm a student in IT and computer science who loves programming and discovering new things.
+I'm a student in `IT` and `computer science` who loves programming and discovering new things.
 
-![gif de zinzin](https://media.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif)
+<img src='/gif2.gif' alt='gif de zinzin' width='250'>
 
 ```typescript
 const hugoa = {
