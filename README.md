@@ -30,7 +30,7 @@ I'm a student in `IT` and `computer science` who loves programming and discoveri
 ![badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ```typescript
-const hugoa = {
+const skills = {
     os: ["Linux", "Windows"],
     languages: ["Typescript", "Python", "Golang", "C#"],
     interests: ["web dev", "full-stack", "back-end", "front-end", "tech", "security", "game dev"],
@@ -50,4 +50,5 @@ const hugoa = {
     },
     currentFocus: "Increasing skill to become a better developper",
     favoriteQuote: "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things - Isaac Newton",
-};```
+};
+```
