@@ -11,7 +11,6 @@ I'm a student in `IT` and `computer science` who loves programming and discoveri
 
 <div style="display: flex; align: center">
     <img src='images/gif2.gif' alt='gif de zinzin' height='250'>
-    <img src='images/gif1.gif' alt='gif de zinzin' height='250'>
 </div>  
 
 
